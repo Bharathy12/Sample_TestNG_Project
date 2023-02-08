@@ -2,28 +2,5 @@
 20110450053  - No fee receipt
 21122200033  - Receipt no 9957
 20128100057 - B.Rathalakshmi -(done)There is no subject fee in the receipt (Done)
-211110150001 - Nalini
-BFTM-1 FOUNDATION COURSE IN TAMIL - But BFTMS -11
-BFTM-11 FOUNDATION COURSE IN TAMIL - But BFTMS -21
-20116200018 - There is no subject fee in the receipt
-
-8825749540
-MacMillan India Ltd
-Jason Rekulak - Deleted
-Hidden Pictures - Advertising - 5 books - 2 Issued
-26796 to 26800
-B.A English - AAFIYA C	and AASHA
-Overall summary report- Error page
-
-Academic Co ordinator - Wong kok - (4 screens -1) - WongKok
-Teacher - Manjula - Entry, exexution (2 screens)- Manjula -ICT
-Principal - Alicia - (4 screens) - Alicia - 1 screen (Manage subject heads)
-Lesson plan execution Report for 2 logins except teacher.But no report for principal
-
-Doubts:
- no status records can be deleted by teacher
-1 week name(1 day) can be used for multiple days
-
-Doubts 10 Aug
-1. Approval screen -Once approved - We cant unapprove? 
-(yes, If the teacher started executes the LP either Yes/NO)
+Line 5
+Line 6
